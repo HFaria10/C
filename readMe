@@ -1,0 +1,6 @@
+Necessário instalar:
+- Instalações necessárias para o libfuse
+- PostFix (3.5.6) 
+- Configurar SMTP
+https://medium.com/codingtown/send-mail-using-postfix-server-bbb08331d39d
+
